@@ -2,6 +2,7 @@
 pagina web :https://oscarcespedes1601.github.io/paginaweb/.
 <!DOCTYPE html>
 <html lang="es">
+<body style=”background-color: #007bff;”>
 <head>
     <title>Diseño de Paginas WEB</title>
 	<meta charset="UTF-8"/> 
