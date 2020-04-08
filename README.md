@@ -83,7 +83,7 @@ Objetivo especifico 2: identificar como se compone una organización.
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=uwtvulnYF-g&t=4s ></iframe>
  <br>
  <br> 
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=ysjXNEtZQ_A></iframe
+<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=ysjXNEtZQ_A></iframe>
 
 </section>
 
