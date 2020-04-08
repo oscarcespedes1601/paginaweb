@@ -79,10 +79,10 @@ Objetivo especifico 2: identificar como se compone una organización.
 
 <p> Los videos que se muestran a continuación le ayudara a comprender mejor el tema de teoría de sistemas en las organizaciones. </p>
 
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=nRpun07lciU " frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uwtvulnYF-g&t=4s ></iframe>
  <br>
  <br> 
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=uwtvulnYF-g" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=uwtvulnYF-g" frameborder="0" allowfullscreen></iframe> wfullscreen
 </section>
 
   <h3>&nbsp;</h3>
