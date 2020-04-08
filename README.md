@@ -26,39 +26,33 @@ pagina web :https://oscarcespedes1601.github.io/paginaweb/.
   
   <h1></h1><a name="Inicio"></a>
   
-      <h1 class = "titulo">  O.V.I   Introducción al desarrollo de software</h1>
-      
+<h1 class = "titulo">  O.V.I   Teoría de Sistemas en las Organizaciones</h1>      
 </header>
- 	<p> En este O.V.I (Objeto de Información Virtual) podrá encontrar información util y necesaria, asi como una breve introducción acerca de uno de los cursos ofertados en la Universidad Nacional Abierta y a Distancia UNAD.</p>
-	
+<p> En este O.V.I (Objeto de Información Virtual) podrá encontrar información util y necesaria, asi como una breve introducción acerca de la teoría de sistemas en las organizaciones.</p>	
 	<aside class="ladoIzquierdo">
 
-  <h2>OFERTA ACADEMICA</h2>
-  <br>
-  <h3>INTRODUCCION AL DESARROLLO DE SOFTWARE</h3>
-  	
-La Universidad Nacional Abierta y a Distancia UNAD ofrece una variedad de cursos básicos y electivos los cuales comprenden las áreas de formación socio humanístico, básico disciplinar, profesional básica común.
+<h2>Objetivos del O.V.I</h2>
+<br>
+<h3>Objetivo general</h3>  	
+Es reconocer e identificar los diferentes mecanismos por los cuales se forman los sistemas independientes del tipo a que corresponda.
  
-Para el programa tecnología en desarrollo de software se ubica el curso 204017 el cual corresponde a Introducción al desarrollo de software, este curso es obligatorio, tiene una validez de 2 créditos y es teórico.
+Objetivo específico 1: conocer los fundamentos del enfoque de sistemas en las organizaciones.
+Objetivo especifico 2: identificar como se compone una organización.
 
-<P> A continuación se realizará la introducción al curso desarrollo de software.</P>
+<P> A continuación se realizará la introducción de la teoría de sistemas en las organizaciones.</P>
 
   <h3>CICLO DE VIDA</h3>
-  <p>El ciclo de vida del software está constituido por un conjunto de etapas: </p>
- 
-  <P><Li>Análisis: Definición y análisis de requisitos.</P>
-  <P><li>Diseño: Clasificación de requisitos y organización de estructura de software.</P>
-  <P><Li>Codificación: Codificación y depuración de software.</P>
-  <P><li>Implementación: Instalación y evaluación.</P>
-  <P><Li>Mantenimiento: Verificación y adecuaciones.</p>
-
+  <h3>TEORÍA DE SISTEMAS EN LAS ORGANIZACIONES</h3>
+  <p>PENSAMIENTO ORGANIZACIONAL: </p>
+ Según la teoría de sistemas la organización se concibe como un conjunto de subsistemas relacionados, entre los cuales existen interconexiones claves que permiten explicar el funcionamiento de la organización en términos de relaciones entre partes. 
 </aside>
 <section class= "introduccion">
-  <h3>CLASIFICACION DE LOS CICLOS DE VIDA</h3>
-  
-  <p><Li>Ciclo de vida interactivos e incrementales, son los que se trabajan en cascada.</p>
-  <p><lI>Ciclo de vida con prototipos, ayuda a concretar requisitos y genera prototipo de software provisional el cual se construye con herramientas que se dan con más rapidez. 
-  
+<h3>CLASIFICACION DE SISTEMAS</h3>  
+  <p><Li>según su relación con el medio ambiente.</p>
+  <p><Li>según su origen.</p>
+  <p><Li>según su cambio en el tiempo.</p>
+  <p><Li>según el tipo de variables que lo definen.</p>
+  <p><LI>según su naturaleza.  
   <br>
 
 </section>
@@ -71,12 +65,11 @@ Para el programa tecnología en desarrollo de software se ubica el curso 204017 
 
 <P> A continuación se relacionan las lecturas disponibles para el entendimiento del curso ofrecido por la universidad Nacional Abierta y a Distancia UNAD. </P>
 
-<iframe style="" src="http://docs.google.com/viewer?url=https://estudios.unad.edu.co/images/ecbti/Tecnolog%C3%ADa_en_desarrollo_del_Software/RESOL_1239_ENERO_31_2014_TECNOLOGIA_EN_DESARROLLO_DE_SOFTWARE.pdf&amp;embedded=true" width="600" height="780"></iframe>
+<iframe style="" src=" https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-554X2008000200002" width="600" height="780"></iframe>
 
 <br>
 
 </section>
-
 
 <hr class= "separar">
 
@@ -84,15 +77,13 @@ Para el programa tecnología en desarrollo de software se ubica el curso 204017 
 
 <h2>ARCHIVOS MULTIMEDIA</h2><a name="Archivos multimedia"></a>
 
-<p> Los videos que se muestran a continuación presentan la introducción al desarrollo de software. </p>
+<p> Los videos que se muestran a continuación le ayudara a comprender mejor el tema de teoría de sistemas en las organizaciones. </p>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/apaSyouFTdo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=nRpun07lciU " frameborder="0" allowfullscreen></iframe>
  <br>
- <br>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/0BT-Qjc2P0g" frameborder="0" allowfullscreen></iframe>
- 
+ <br> 
+<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=uwtvulnYF-g" frameborder="0" allowfullscreen></iframe> 
 </section>
-
 
   <h3>&nbsp;</h3>
 </section><footer class="curso"><p>&nbsp;</p>
@@ -104,20 +95,21 @@ Para el programa tecnología en desarrollo de software se ubica el curso 204017 
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Autor</strong><a name="Autor"></a>
                     </h4>
-                    <p>Edgar Yessid Ladino Abril</p>
-                       <p>Programa: Ingenieria de Sistemas</p>
+                    <p>Oscar Fabian Cespedes Gonzalez</p>
+                    <p>Programa: Ingeniería de Sistemas</p>
                     <p>Diseño de Paginas WEB</p>
                                         <br>
                     <ul class="list-inline">
 					
-	<a href="https://www.facebook.com/edgar.y.ladino" target="_blank"><img alt="siguenos en facebook" height="40" src="http://3.bp.blogspot.com/-MQuocq7OzfU/UiXwUY81yQI/AAAAAAAAB0Q/h6-R_R2-buI/s1600/face.png" title="siguenos en facebook" width="40" /></a>
+	<a href=" https://www.facebook.com/fabihan.cespedesgonzalez " target="_blank"><img alt="siguenos en facebook" height="40" src="http://3.bp.blogspot.com/-MQuocq7OzfU/UiXwUY81yQI/AAAAAAAAB0Q/h6-R_R2-buI/s1600/face.png" title="siguenos en facebook" width="40" /></a>
 	<a href="https://twitter.com/?lang=es" target="_blank"><img alt="siguenos en Twitter" height="40" src="http://2.bp.blogspot.com/-B0wCtNXYV3U/UiX1VnAQSrI/AAAAAAAAB6Q/ILY3m0NJVE8/s1600/Twitter+NEW.png" title="siguenos en Twitter" width="40" /></a>
+
 	<a href="https://www.youtube.com/?gl=CO&hl=es-419" target="_blank"><img alt="Canal de youtube" height="40" src="http://1.bp.blogspot.com/-NEytJH3mFZ8/UidLG3fePdI/AAAAAAAAB_A/WbH7IJAh1qE/s1600/youtube2.png" title="Canal de youtube" width="40" /></a>
 	<a href="https://www.skype.com/es/" target="_blank"><img alt="sígueme en Skype" height="40" src="http://2.bp.blogspot.com/-fPcU0mcVHy4/UiX1U_GS66I/AAAAAAAAB5k/qJsdIGNc4pg/s1600/Skype.png" title="sígueme en Skype" width="40" /></a>
 
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2017</p>
+                    <p class="text-muted">Copyright &copy; Your Website 2020</p>
                 </div>
             </div>
         </div>
