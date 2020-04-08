@@ -108,6 +108,9 @@ Objetivo especifico 2: identificar como se compone una organización.
 	<a href="https://www.youtube.com/?gl=CO&hl=es-419" target="_blank"><img alt="Canal de youtube" height="40" src="http://1.bp.blogspot.com/-NEytJH3mFZ8/UidLG3fePdI/AAAAAAAAB_A/WbH7IJAh1qE/s1600/youtube2.png" title="Canal de youtube" width="40" /></a>
 	<a href="https://www.skype.com/es/" target="_blank"><img alt="sígueme en Skype" height="40" src="http://2.bp.blogspot.com/-fPcU0mcVHy4/UiX1U_GS66I/AAAAAAAAB5k/qJsdIGNc4pg/s1600/Skype.png" title="sígueme en Skype" width="40" /></a>
 
+<a href="<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=280766"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro marca</a></center> /></a>
+
                     </ul>
                     <hr class="small">
                     <p class="text-muted">Copyright &copy; Your Website 2020</p>
