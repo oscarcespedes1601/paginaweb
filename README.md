@@ -3,7 +3,8 @@ pagina web :https://oscarcespedes1601.github.io/paginaweb/.
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Diseño de Paginas WEB</title>
+    <title>Diseño de Paginas WEB</title> 
+	<link href”main.css” rel “stylesheet”/>
 	<meta charset="UTF-8"/> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
