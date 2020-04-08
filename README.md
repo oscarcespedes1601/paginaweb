@@ -112,7 +112,8 @@ Objetivo especifico 2: identificar como se compone una organización.
 <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=280766"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro marca</a></center> /></a>
 
                     </ul>
-                    <hr class="small">
+                    <hr class="small"><center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=280766"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro marca</a></center>
                     <p class="text-muted">Copyright &copy; Your Website 2020</p>
                 </div>
             </div>
