@@ -40,9 +40,8 @@ Es reconocer e identificar los diferentes mecanismos por los cuales se forman lo
 Objetivo específico 1: conocer los fundamentos del enfoque de sistemas en las organizaciones.
 Objetivo especifico 2: identificar como se compone una organización.
 
-<P> A continuación se realizará la introducción de la teoría de sistemas en las organizaciones.</P>
-
-  <h3>CICLO DE VIDA</h3>
+<P> A continuación se realizará la introducción de la teoría de sistemas en las organizaciones.
+	
   <h3>TEORÍA DE SISTEMAS EN LAS ORGANIZACIONES</h3>
   <p>PENSAMIENTO ORGANIZACIONAL: </p>
  Según la teoría de sistemas la organización se concibe como un conjunto de subsistemas relacionados, entre los cuales existen interconexiones claves que permiten explicar el funcionamiento de la organización en términos de relaciones entre partes. 
@@ -67,6 +66,14 @@ Objetivo especifico 2: identificar como se compone una organización.
 <P> A continuación se relacionan las lecturas disponibles para el entendimiento del curso ofrecido por la universidad Nacional Abierta y a Distancia UNAD. </P>
 
 <iframe style="" src=" https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-554X2008000200002" width="600" height="780"></iframe>
+
+<iframe style="" src=" https://github.com/oscarcespedes1601/paginaweb/edit/master/README.md" width="600" height="780"></iframe>
+
+<iframe style="" src=" https://www.researchgate.net/publication/49594920_TEORIA_DE_SISTEMAS_EN_LAS_ORGANIZACIONES" width="600" height="780"></iframe>
+
+<iframe style="" src=" https://www.eoi.es/blogs/bruniladaaltagraciasantana/2011/12/05/teoria-de-los-sistemas/" width="600" height="780"></iframe>
+
+<iframe style="" src=" https://sites.google.com/site/empreswaites/teoria-de-sistemas" width="600" height="780"></iframe>
 
 <br>
 
