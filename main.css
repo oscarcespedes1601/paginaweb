@@ -1,4 +1,13 @@
-boby {
-background: # 007bff;
-color: # fff
-}
+<!Doctype html>
+<html>
+
+
+            <meta charset="UTF-8">
+            <title>agregado css</title>
+            <!--    aqui definimos el estilo css para la pagina-->
+            <style>
+            
+            h1{
+            color: blue;
+            }
+            </style>
