@@ -4,7 +4,7 @@ UNAD  Universidad Nacional Abierta y a Distancia
 <html lang="es">
 <body style=”background-color: #007bff;”>
 <head>
-    <title>Diseño de Paginas WEB</title>
+    <title>UNAD</title>
 	<meta charset="UTF-8"/> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -105,6 +105,8 @@ Objetivo especifico 2: identificar como se compone una organización.
                     <h4><strong>Autor</strong><a name="Autor"></a>
                     </h4>
                     <p>Oscar Fabian Cespedes Gonzalez</p>
+			<p> contacto:3059258710</p>
+			<p> correo:  oscarf_123@hotmail.com</p>
                     <p>Programa: Ingeniería de Sistemas</p>
                     <p>Diseño de Paginas WEB</p>
                                         <br>
