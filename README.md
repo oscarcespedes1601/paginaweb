@@ -109,7 +109,15 @@ Objetivo especifico 2: identificar como se compone una organización.
 			<p> correo:  oscarf_123@hotmail.com</p>
                     <p>Programa: Ingeniería de Sistemas</p>
                     <p>Diseño de Paginas WEB</p>
-                                        <br>
+			<H4> <fuerte>UNAD</fuerte><un nombre=”UNAD”></una>
+</H4>
+<p> Universidad Nacional Abierta y a Distancia </p>
+<p> línea gratuita 018000115223 </p>
+<p>Dirección: Calle 34 # 9a - 26 Barrio San Simón Parte Baja</p>
+<p>Correo electrónico: ibague@unad.edu.co </p>
+
+                                        <br
+					    
                     <ul class="list-inline">
 					
 	<a href=" https://www.facebook.com/fabihan.cespedesgonzalez " target="_blank"><img alt="siguenos en facebook" height="40" src="http://3.bp.blogspot.com/-MQuocq7OzfU/UiXwUY81yQI/AAAAAAAAB0Q/h6-R_R2-buI/s1600/face.png" title="siguenos en facebook" width="40" /></a>
