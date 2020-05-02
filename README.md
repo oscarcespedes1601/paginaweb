@@ -74,6 +74,7 @@ Objetivo especifico 2: identificar como se compone una organización.
 <iframe style="" src=" https://www.eoi.es/blogs/bruniladaaltagraciasantana/2011/12/05/teoria-de-los-sistemas/" width="600" height="780"></iframe>
 
 <iframe style="" src=" http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232000000400002" width="600" height="780"></iframe>
+
 <iframe style="" src=" https://sites.google.com/site/empreswaites/teoria-de-sistemas" width="600" height="780"></ifram
 <br>
 
