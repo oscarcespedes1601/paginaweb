@@ -1,6 +1,6 @@
 # paginaweb
 UNAD  Universidad Nacional Abierta y a Distancia
-ALIGN = "center, left, etc"; imagen-unad = "texto"; BORDER = p; HEIGHT = p;WIDTH = 600px
+
 <!DOCTYPE html>
 <html lang="es">
 <body style=”background-color: #007bff;”>
@@ -68,14 +68,13 @@ Objetivo especifico 2: identificar como se compone una organización.
 
 <iframe style="" src=" https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-554X2008000200002" width="600" height="780"></iframe>
 
-<iframe style="" src=" https://github.com/oscarcespedes1601/paginaweb/edit/master/README.md" width="600" height="780"></iframe>
 
-<iframe style="" src=" https://www.researchgate.net/publication/49594920_TEORIA_DE_SISTEMAS_EN_LAS_ORGANIZACIONES" width="600" height="780"></iframe>
+<iframe style="" src=" https://s3a2.me/2012/11/19/la-teoria-de-sistemas-en-el-pensamiento-organizacional/ " width="600" height="780"></iframe>
 
 <iframe style="" src=" https://www.eoi.es/blogs/bruniladaaltagraciasantana/2011/12/05/teoria-de-los-sistemas/" width="600" height="780"></iframe>
 
-<iframe style="" src=" https://sites.google.com/site/empreswaites/teoria-de-sistemas" width="600" height="780"></iframe>
-
+<iframe style="" src=" http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232000000400002" width="600" height="780"></iframe>
+<iframe style="" src=" https://sites.google.com/site/empreswaites/teoria-de-sistemas" width="600" height="780"></ifram
 <br>
 
 </section>
