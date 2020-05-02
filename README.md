@@ -107,14 +107,12 @@ Objetivo especifico 2: identificar como se compone una organización.
                     <p>Oscar Fabian Cespedes Gonzalez</p>
 			<p> contacto:3059258710</p>
 			<p> correo:  oscarf_123@hotmail.com</p>
-                    <p>Programa: Ingeniería de Sistemas</p>
-                    <p>Diseño de Paginas WEB</p>
-			<H4> <fuerte>UNAD</fuerte><un nombre=”UNAD”></una>
-</H4>
-<p> Universidad Nacional Abierta y a Distancia </p>
-<p> línea gratuita 018000115223 </p>
-<p>Dirección: Calle 34 # 9a - 26 Barrio San Simón Parte Baja</p>
-<p>Correo electrónico: ibague@unad.edu.co </p>
+			<p> Universidad Nacional Abierta y a Distancia </p>
+			<p> línea gratuita 018000115223 </p>
+			<p>Dirección: Calle 34 # 9a - 26 Barrio San Simón Parte Baja</p>
+			<p>Correo electrónico: ibague@unad.edu.co </p>
+				
+
 
                                         <br
 					    
