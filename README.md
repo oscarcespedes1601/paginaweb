@@ -1,5 +1,6 @@
 # paginaweb
 UNAD  Universidad Nacional Abierta y a Distancia
+ALIGN = "center, left, etc"; imagen-unad = "texto"; BORDER = p; HEIGHT = p;WIDTH = 600px
 <!DOCTYPE html>
 <html lang="es">
 <body style=”background-color: #007bff;”>
